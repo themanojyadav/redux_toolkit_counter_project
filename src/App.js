@@ -18,7 +18,7 @@ function App() {
         style={{ textAlign: "center" }}
         className="text-uppercase fw-bold mb-5 mt-4"
       >
-        Redux Toolkit Based Counter
+        COUNTER USING REDUX TOOLKIT
       </h3>
       <div style={{ textAlign: "center" }}>
         <h1 className="badge bg-warning rounded-pill shadow fs-1">{count}</h1>
